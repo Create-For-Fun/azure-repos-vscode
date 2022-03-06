@@ -184,7 +184,7 @@ in an IDE or at the command line.
 ### File Explorer
 Access to renaming a file is provided on Visual Studio Code's File Explorer menu.
 
-![TFVC Rename](assets/tfvc-rename.png)
+![jaleho](assets/tfvc-rename.png)
 
 * `Delete (TFVC)` – To properly delete a file in TFVC using the `Delete` command, use this option on Visual Studio Code's File Explorer. Since 1.119.0, the extension will no longer automatically promote candidate deletions to a TFVC delete.
 
